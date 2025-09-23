@@ -1,3 +1,4 @@
+package LinearSearch;
 // using index we need to find a element; user input at runtime input index output element
 
 import java.util.Scanner;

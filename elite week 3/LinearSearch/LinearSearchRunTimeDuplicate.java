@@ -1,3 +1,4 @@
+package LinearSearch;
 import java.util.Scanner;
 public class LinearSearchRunTimeDuplicate{
     public static void main(String[] args){
