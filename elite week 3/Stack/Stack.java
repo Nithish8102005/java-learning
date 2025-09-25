@@ -1,3 +1,4 @@
+package Stack;
 public class Stack {
     int top;
     int size=3;
