@@ -1,3 +1,4 @@
+package Sort;
 // basic program of bubble sort
 import java.util.Scanner;
 
