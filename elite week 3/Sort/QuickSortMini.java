@@ -18,7 +18,7 @@ public class QuickSortMini {
                 arr[i++] = arr[j];
                 arr[j] = temp;
             }
-        }
+        }            
         int temp = arr[i];
         arr[i] = arr[high];
         arr[high] = temp;
