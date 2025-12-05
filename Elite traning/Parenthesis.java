@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class Parenthesis {
     public static boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
